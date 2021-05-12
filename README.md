@@ -1,7 +1,14 @@
 ![BITS Pilani](bits.jpg)
 <br>
 ### Hello there 👋
-I am Kanishk Vishwakarma, 2nd-year undergraduate student at BITS Pilani, India, majoring in Mechanical Engineering.
+I am Kanishk Vishwakarma, 2nd-year undergraduate student at BITS Pilani, India, majoring in Mechanical Engineering. 
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk598)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <!--
 **Kanishk598/Kanishk598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
