@@ -5,7 +5,7 @@
 #### I am a Mechanical Engineering sophomore at BITS Pilani, India. I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
 
 
-Skills: ROS / C++ / Python / HTML / JavaScript
+> Skills: ROS / C++ / Python / HTML / JavaScript
 
 - 🔭 I’m currently working on making non-ROS computer vision code ROS compatible 
 - 📫 How to reach me: [My website](http://kanishk598.github.io/) 
