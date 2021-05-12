@@ -1,5 +1,7 @@
-### Hi there 👋
-
+![BITS Pilani](bits.jpg)
+<br>
+### Hello there 👋
+I am Kanishk Vishwakarma, 2nd-year undergraduate student at BITS Pilani, India, majoring in Mechanical Engineering.
 <!--
 **Kanishk598/Kanishk598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
