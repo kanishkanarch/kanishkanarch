@@ -19,7 +19,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://www.ros.org/"><img align="left" alt="git" width="26px" src="https://answers.ros.org/upfiles/14554624266871161.png"/></a>
 <a href="https://www.docker.com/"><img align="left" alt="git" width="40px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/></a>
-<br>
+<br><br>
 
 ![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk598&show_icons=true&theme=dark)
 
