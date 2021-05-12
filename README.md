@@ -2,7 +2,7 @@
 <br>
 ### Hello, I am Kanishk Vishwakarma
 ---
-#### I am a Mechanical Engineering sophomore at BITS Pilani, India. I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
+#### I am a Mechanical Engineering sophomore at [BITS Pilani](https://www.bits-pilani.ac.in/), India. I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
 
  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
  
