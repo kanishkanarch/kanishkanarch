@@ -1,5 +1,5 @@
-![BITS Pilani](bits.jpg)
-<br>
+<img src="bits.jpg" width="70%" height="70%">
+
 ### Hello, I am Kanishk Vishwakarma
 ---
 #### I am a Mechanical Engineering sophomore at [BITS Pilani](https://www.bits-pilani.ac.in/). I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
