@@ -1,10 +1,9 @@
 ![BITS Pilani](bits.jpg)
 <br>
-### Hi there 👋, my name is Kanishk
+### Hello, I am Kanishk Vishwakarma
 ---
-#### I am a Roboticist
+#### I am a Mechanical Engineering sophomore at BITS Pilani, India. I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
 
-I am a Mechanical Engineering sophomore at BITS Pilani, India. I research Robotics and Computer Vision.
 
 Skills: ROS / C++ / Python / HTML / JavaScript
 
