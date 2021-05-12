@@ -1,6 +1,7 @@
 ![BITS Pilani](bits.jpg)
 <br>
 ### Hi there 👋, my name is Kanishk
+---
 #### I am a Roboticist
 
 I am a Mechanical Engineering sophomore at BITS Pilani, India. I research Robotics and Computer Vision.
