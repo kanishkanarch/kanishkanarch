@@ -6,14 +6,15 @@
 
  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
  
+ 
+🔭 I’m currently working on making non-ROS computer vision code ROS compatible 
+
 Skills:
 * ROS
 * Python
 * C++
 * JavaScript
 * HTML
-
-🔭 I’m currently working on making non-ROS computer vision code ROS compatible 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk598&theme=dark)
 
