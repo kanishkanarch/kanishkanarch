@@ -6,8 +6,7 @@
 
 <br>
 > Skills: ROS / C++ / Python / HTML / JavaScript
-
-<br>
+<br><br>
 - 🔭 I’m currently working on making non-ROS computer vision code ROS compatible 
 - 📫 How to reach me: [My website](http://kanishk598.github.io/) 
 
