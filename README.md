@@ -1,4 +1,4 @@
-<img src="bits.jpg" width="70%" height="70%">
+<img src="bits.jpg">
 
 ### Hello, I am Kanishk Vishwakarma
 ---
