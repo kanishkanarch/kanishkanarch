@@ -21,9 +21,10 @@
 <a href="https://www.docker.com/"><img align="left" alt="git" width="40px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/></a>
 <br>
 
+![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk598&show_icons=true&theme=dark)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk598&theme=dark)
 
-![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk598&show_icons=true&theme=dark)
 
 📫 Reach me out on [my website](http://kanishk598.github.io/) 
 
