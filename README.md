@@ -1,24 +1,29 @@
 <img src="bits.jpg">
 
-### Hello, I am Kanishk Vishwakarma
----
+### <u>Hello, I am Kanishk Vishwakarma</u>
+
 #### I am a Mechanical Engineering sophomore at [BITS Pilani](https://www.bits-pilani.ac.in/). I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
 
- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
- 
- 
-🔭 I’m currently working on making non-ROS computer vision code ROS compatible 
 
-Skills:
-* ROS
-* Python
-* C++
-* JavaScript
-* HTML
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+ 
+ 
+
+
+#### <u>Languages and Softwares:</u>
+
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.ros.org/"><img align="left" alt="git" width="26px" src="https://answers.ros.org/upfiles/14554624266871161.png"/></a>
+<a href="https://www.docker.com/"><img align="left" alt="git" width="40px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/></a>
+<br>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk598&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk598&show_icons=true&theme=dark)
+![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk598&show_icons=true&theme=dark)
 
 📫 Reach me out on [my website](http://kanishk598.github.io/) 
 
