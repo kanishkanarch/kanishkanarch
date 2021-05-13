@@ -15,6 +15,7 @@
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 <a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://html.spec.whatwg.org/" target="_blank"> <img align="left" alt="HTML5" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://github.com/"><img align="left" alt="GitHub" width="40px" src="https://distreau.com/github.svg" /></a>
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
