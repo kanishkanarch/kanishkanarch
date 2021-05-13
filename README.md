@@ -27,7 +27,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk598&theme=dark)
 
 ### Check me out on [my website](http://kanishk598.github.io/) 
-
 #### Or reach me via:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk598/)
