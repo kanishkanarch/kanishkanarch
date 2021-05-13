@@ -1,4 +1,4 @@
-### <u>Hello World! I am Kanishk Vishwakarma 👋</u>
+### Hello! I am Kanishk Vishwakarma
 ---
 
 #### I am a Mechanical Engineering sophomore at [BITS Pilani](https://www.bits-pilani.ac.in/). I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](https://www.sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
