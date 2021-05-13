@@ -1,4 +1,4 @@
-### <u>Hello, I am Kanishk Vishwakarma 👋</u>
+### <u>Hello World! I am Kanishk Vishwakarma 👋</u>
 ---
 
 #### I am a Mechanical Engineering sophomore at [BITS Pilani](https://www.bits-pilani.ac.in/). I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](https://www.sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Intelligent Mobility Labs](https://www.linkedin.com/company/intelligent-mobility-labs/)
@@ -26,11 +26,12 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk598&theme=dark)
 
-📫 Reach me out on [my website](http://kanishk598.github.io/) 
+#### Check me out on [my website](http://kanishk598.github.io/) 
 
-Or check me out here:
+##### Or reach me via:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk598/)
-![GitHub](https://img.shields.io/github/followers/Kanishk598?label=GitHub&style=social)(https://github.com/Kanishk598)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/konixboi)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:f20190315@pilani.bits-pilani.ac.in)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk598/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishk598)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20190315@pilani.bits-pilani.ac.in)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kanishk.vishwakarma.3)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/konixboi)
