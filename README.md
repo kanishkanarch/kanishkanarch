@@ -1,4 +1,4 @@
-<img src="bits_panorama.jpg">
+<img src="bits_panorama.jpeg" width="2500px">
 
 ## 🙏नमस्ते (Namaste)! I am Kanishk Vishwakarma
 
