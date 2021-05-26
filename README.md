@@ -1,8 +1,4 @@
-# Lund aata hai mujhe 
-
-![image](https://user-images.githubusercontent.com/52484751/119702872-8f528b00-be73-11eb-96ea-0ce03afc66d1.png)
-
-<!--<img src="bits_panorama.jpeg" width="2500px">
+<img src="bits_panorama.jpeg" width="2500px">
 
 ## 🙏नमस्ते (Namaste)! I am Kanishk Vishwakarma
 
@@ -40,4 +36,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20190315@pilani.bits-pilani.ac.in)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kanishk.vishwakarma.3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/konixboi)
--->
