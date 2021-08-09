@@ -6,8 +6,6 @@
 ### I am a Mechanical Engineering sophomore at [BITS Pilani](https://www.bits-pilani.ac.in/). I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](https://www.sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [Quidich](https://www.quidich.com/)
 
 
-<a href='https://archiveprogram.github.com/' target="_blank" rel="noopener noreferrer"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='80' height='80'></a> <a href='https://github.com/pricing' target="_blank" rel="noopener noreferrer"><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='80'></a> 
- 
  
 
 
@@ -18,15 +16,13 @@
 <a href="https://html.spec.whatwg.org/"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> </a>
 <a href="https://www.javascript.com/"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="JavaScript" width="40px" src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png"/> </a>
 <a href="https://git-scm.com/"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitHub" width="40px" src="https://distreau.com/github.svg" /></a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitHub" width="40px" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://www.ros.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="git" width="40px" src="https://answers.ros.org/upfiles/14554624266871161.png"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="git" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/></a>
 <br><br>
 
-![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk598&show_icons=true&theme=dark)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk598&theme=dark)
 
 ### Check me out on [my website](http://kanishk598.github.io/) 
 #### Or reach me via:
