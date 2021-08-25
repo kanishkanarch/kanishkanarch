@@ -15,11 +15,11 @@
 <a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitHub" width="40px" src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://www.ros.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="git" width="40px" src="https://answers.ros.org/upfiles/14554624266871161.png"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="git" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/></a><br/>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="git" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/></a>
+<br/><br/>
+### Check me out on [my website](http://kanishk598.github.io/)
 
-### Check me out on [my website](http://kanishk598.github.io/)<br/>
-
-#### Or reach me via:<br/>
+### Or reach me via:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk598/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishk598)
