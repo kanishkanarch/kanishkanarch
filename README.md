@@ -3,7 +3,7 @@
 ## 🙏नमस्ते (Namaste)! I am Kanishk Vishwakarma
 
 
-### I am a Mechanical Engineering junior at [BITS Pilani](https://www.bits-pilani.ac.in/). I am also an Autonomous Robotics and Computer Vision researcher at [Sally Robotics](https://www.sally-robotics.co.in), [CEERI](https://www.ceeri.res.in/) and [CRISS](https://www.crissrobotics.in/)<br/>
+### I am a Mechanical Engineering senior at [BITS Pilani](https://www.bits-pilani.ac.in/). I am also an AI & robotics researcher at [Robotics Research Center, IIIT Hyderabad](https://robotics.iiit.ac.in/).<br/>
 
 ### Check me out on [my website](http://kanishkanarch.github.io/)
 
