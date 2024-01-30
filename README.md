@@ -1,4 +1,4 @@
-<img src="bits_panorama.jpeg" width="2500px">
+<img src="Galway.jpeg" width="2500px">
 
 ## Welcome, I am Kanishk Vishwakarma
 
