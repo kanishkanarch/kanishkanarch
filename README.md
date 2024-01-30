@@ -1,4 +1,4 @@
-<img src="Galway.jpeg" width="2500px">
+<img src="Drone-anechoic.jpg" width="2500px">
 
 ## Welcome, I am Kanishk Vishwakarma
 
